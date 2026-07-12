@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Evarline&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Evarline&theme=blood)](https://git.io/streak-stats)
+
 
 - 🔭 I’m currently completing my **industrial attachment portfolio**.
 - 🌱 I’m refining my skills in **Python development** and backend engineering.
