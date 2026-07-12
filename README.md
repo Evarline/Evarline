@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Evarline&background=0015FF&ring=ffffffc&fire=ff003c&currStreakNum=ff003c&sideNums=ffffff&sideLabels=ffffff&hide_dates=true&hide_border=true&card_width=600)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Evarline&background=241571&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&hide_dates=true&hide_border=true&card_width=600)](https://git.io/streak-stats)
 
 
 - 🔭 I’m currently completing my **industrial attachment portfolio**.
