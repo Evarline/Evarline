@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Evarline&theme=tokyonight)](https://git.io/streak-stats)
+
+- 🔭 I’m currently completing my **industrial attachment portfolio**.
+- 🌱 I’m refining my skills in **Python development** and backend engineering.
+- 👯 I’m looking to collaborate on open-source projects, utility tools, and automation scripts.
+- 💬 Ask me about my recent open-source contributions!
+
+
 <!--
 **Evarline/Evarline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
