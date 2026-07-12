@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Evarline&background=000000&ring=ff003c&fire=ff003c&currStreakNum=ff003c&sideNums=ffffff&sideLabels=ffffff&hide_dates=true&hide_border=true&card_width=600)](https://git.io/streak-stats)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&background=241571&width=600&height=60&lines=Python+Developer+in+training...;Building+open-source+utilities...;Industrial+attachment+in+progress..." alt="Typing SVG" />
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Evarline&background=241571&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&hide_dates=true&hide_border=true&card_width=600)](https://git.io/streak-stats)
 
 
 - 🔭 I’m currently completing my **industrial attachment portfolio**.
